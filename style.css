@@ -1,6 +1,5 @@
 html {
     background-color: whitesmoke;
-    /* font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', 'Geneva', 'Verdana', 'sans-serif'; */
     font-family: Helvetica, Arial, sans-serif;
 }
 body {
@@ -26,7 +25,6 @@ header, header a{
     margin: 0;
     background-color: #012e67;
     color: whitesmoke;
-    /* text-align: center; */
 }
 #main-heading {
     margin: 0;
@@ -37,8 +35,6 @@ header, header a{
 #header-links {
     padding-top: 20px;
     font-size: 16px;
-}
-#header-links {
     color: #2b6684;
 }
 #header-links a {
@@ -69,9 +65,5 @@ li {
 }
 .fullsize-img { /* image to take up fill width of content column */
     max-width: 650px;
-    width: 100%;
-}
-.halfsize-img {
-    max-width: 325px;
     width: 100%;
 }
