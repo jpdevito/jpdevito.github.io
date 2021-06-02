@@ -63,6 +63,7 @@ p a, li a {
 }
 #header-links a:hover, p a:hover, li a:hover {
     color: #f4d160;
+    transition: 0.5s;
 }
 
 li {
