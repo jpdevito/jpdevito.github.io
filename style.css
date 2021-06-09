@@ -1,6 +1,7 @@
 html {
     background-color: whitesmoke;
     font-family: Helvetica, Arial, sans-serif;
+    font-weight: lighter;
 }
 ::selection { /* highlight color */
     background: #fbeeac;
@@ -56,10 +57,12 @@ header, header a{
 .content h3 {
     font-size: 20px;
     margin-top: 32px;
+    font-weight: bold;
 }
 p a, li a {
     color: #0061a8;
     text-decoration: none;
+    font-weight: normal;
 }
 #header-links a:hover{
     color: #f4d160;
