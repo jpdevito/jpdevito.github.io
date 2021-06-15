@@ -24,10 +24,12 @@ body {
     font-size: 18px;
     line-height: 1.8;
 }
-header, header a{
+header{
     width: 100%;
     margin: 0;
     background-color: #012e67;
+}
+header a {
     color: whitesmoke;
 }
 #main-heading {
@@ -84,4 +86,10 @@ li {
 .fullsize-img { /* image to take up fill width of content column */
     max-width: 650px;
     width: 100%;
+}
+.footer {
+    text-align: center;
+}
+.footer a{
+    font-size: 14px;
 }
